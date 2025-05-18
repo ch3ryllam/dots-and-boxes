@@ -1,6 +1,4 @@
 open Hashtbl
-(* Prompted ChatGPT-4o, "how to make Hashtbl custom type in OCaml", line 1,
-   accessed 3/23/35. *)
 
 type point = int * int
 
