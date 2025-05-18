@@ -1,1 +1,0 @@
-Yanwei Liu (ycl6), Sophia Li (syl57), Cheryl Lam (cwl92)
